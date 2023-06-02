@@ -921,12 +921,7 @@ h3 strong{
     }
 }
 @media only screen and (max-width: 450px){
-    .articles figure img{
-        width: 250px;
-        
-         
-         border-radius:30px ;
-     }
+   
      .contact textarea{
         width: 50%;
         max-width: 400px;
@@ -979,6 +974,15 @@ th{
     width: 100%;
     
 }
+.founder{
+max-width:300px;
+min-width:250px;
+}
+.meb-1{
+width: 50%;
+    max-width: 300px;
+    min-width: 250px;
+    }
 }
 @media only screen and (max-width: 1000px){
     .ticket h3{
